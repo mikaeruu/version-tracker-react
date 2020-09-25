@@ -18,9 +18,10 @@ Run `yarn dev`, then open [localhost:3000](http://localhost:3000).
 3. Make a pull request.
 
 ## To-Dos
-GitHub Project could be found [here](https://github.com/users/mchlbataller/projects/3)
+GitHub Project could be found [here](https://github.com/users/mchlbataller/projects/3). Requires access to modify cards.
 
 > If you are now working on an issue, move the card to **In Progress** column.
+
 
 
 ## Design
